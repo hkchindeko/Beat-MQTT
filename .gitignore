@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /.idea
 /build
 
@@ -6,7 +5,7 @@
 /beat-mqtt
 /beat-mqtt.test
 *.pyc
-=======
+
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
@@ -31,4 +30,3 @@ _testmain.go
 *.exe
 *.test
 *.prof
->>>>>>> a107f239d32afff41d7409d0a97390f7ed2f9b6f
