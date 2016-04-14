@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.idea
 /build
 
@@ -5,3 +6,29 @@
 /beat-mqtt
 /beat-mqtt.test
 *.pyc
+=======
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+>>>>>>> a107f239d32afff41d7409d0a97390f7ed2f9b6f

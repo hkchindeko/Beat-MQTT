@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Beat-mqtt
 
 Welcome to Beat-mqtt.
@@ -129,3 +130,7 @@ git clone https://github.com/hkchindeko/Beat-MQTT/beat-mqtt
 
 
 For further development, check out the [beat developer guide](https://www.elastic.co/guide/en/beats/libbeat/current/new-beat.html).
+=======
+# Beat-MQTT
+A Elastic Beat to stream MQTT data into Elasticsearch and Logstach
+>>>>>>> a107f239d32afff41d7409d0a97390f7ed2f9b6f
