@@ -1,0 +1,5 @@
+= Beat-mqtt Docs
+
+Welcome to the Beat-mqtt documentation.
+
+

@@ -1,0 +1,4 @@
+beat_name: beat-mqtt
+beat_url: 'https://github.com/hkchindeko/Beat-MQTT'
+beat_repo: 'github.com/hkchindeko/Beat-MQTT'
+beat_description: Sends beat-mqtt metrics to Logstash or directly to Elasticsearch.
