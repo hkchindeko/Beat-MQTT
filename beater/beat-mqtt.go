@@ -9,7 +9,7 @@ import (
 	"github.com/elastic/beats/libbeat/common"
 	"github.com/elastic/beats/libbeat/logp"
 
-	"github.com/hkchindeko/Beat-MQTT/beat-mqtt/config"
+	"github.com/hkchindeko/Beat-MQTT/config"
 )
 
 type Beat-mqtt struct {
